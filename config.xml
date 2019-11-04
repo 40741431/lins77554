@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.eZTravel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>map</name>
+  <description>
+     nick
+  </description>
+  <author href="https://www.nfu.edu.tw/zh/" email="40741431@nfu.edu.tw">
+      林嵩展
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/map.png" />
+  </platform>
+</widget>
